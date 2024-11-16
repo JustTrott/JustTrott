@@ -20,7 +20,7 @@
 
 </details>  
 
-<details>
+<details open>
  <summary>
    
    ## 💻 Technologies
