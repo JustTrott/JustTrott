@@ -5,7 +5,7 @@
 
 <hr />
 
-<details>
+<details open>
  <summary>
    
   ## 💫 About me
