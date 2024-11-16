@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=JustTrott&data=followers,repositories,stars,commits&theme=darkmode">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1200&pause=300&color=5386E4&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=Hi%2C+I'm+Temirlan+Amanzhanov.;TypeScript+web+developer." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1200&pause=300&color=5386E4&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=Hi%2C+I'm+Temirlan+Amanzhanov.;Fullstack+web+developer." alt="Typing SVG" /></a>
 </p>
 
 <hr />
